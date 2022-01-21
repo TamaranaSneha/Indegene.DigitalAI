@@ -16,10 +16,10 @@ Languages:
       Hint: Description
       Value: |
         <div class="description">
-        <h4><b>Digital.ai Release is a release management tool specifically for CD. It enables teams across an organization to model &amp; monitor releases automate tasks within IT infrastructure and cut release times by analyzing and improving release processes.</b></h4>
-        <h4>A release is divided into phases, which represent logical stages in the process that must happen in succession. For example, a release could include Development, QA, and Deployment phases. In Digital.ai Release, a phase is a grouping of tasks, which are the activities that must be done to fulfill the release.</h4>
+        <h4><strong>Digital.ai Release is a release management tool specifically for CD. It enables teams across an organization to model &amp; monitor releases automate tasks within IT infrastructure and cut release times by analyzing and improving release processes.</strong></h4>
+        <h4><strong>A release is divided into phases, which represent logical stages in the process that must happen in succession. For example, a release could include Development, QA, and Deployment phases. In Digital.ai Release, a phase is a grouping of tasks, which are the activities that must be done to fulfill the release.</strong></h4>
         <img alt="release flow" src="-/media/35EC4013BB524214A91B4B95EEF8BAD1.ashx" />
-        <h4>Entire Sitecore Website CI/CD process is automated with Digital.ai. Once the developers are done with code checkin, we had to run the Start Release. Then the below steps are processed.
+        <h4><strong>Entire Sitecore Website CI/CD process is automated with Digital.ai. Once the developers are done with code checkin, we had to run the Start Release. Then the below steps are processed.
         <li>JIRA ticket is updated to the Next stage. For Example: To Do to In Progress</li>
         <li>Pull request and Merge Request is triggered to the GIT Repo of Release branch.</li>
         <li>Jenkins will build the Release branch code and artifacts are created.</li>
@@ -27,7 +27,7 @@ Languages:
         <li>Based on the process created the deployment will be made to the Higher Environments.</li>
         <li>Similar activity takes place in DEV,UAT,PROD environments.</li>
         <li>Back Syncing the Production Sitecore Content Items is also created in a different template. We can run that specific Rollback template once there are any latest changes in Production.</li>
-        </h4>
+        </strong></h4>
         </div>
     - ID: "25bed78c-4957-4165-998a-ca1b52f67497"
       Hint: __Created
